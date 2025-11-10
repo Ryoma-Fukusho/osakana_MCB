@@ -1,0 +1,26 @@
+[
+  {
+    "id": "goryokaku",
+    "title": "五稜郭公園",
+    "description": "五稜郭タワーや歴史的な星形要塞が見られる公園",
+    "lat": 41.7955,
+    "lng": 140.7578,
+    "url": "https://www.hakodate.travel/spot/goryokaku/"
+  },
+  {
+    "id": "asaichi",
+    "title": "函館朝市",
+    "description": "新鮮な海産物や土産を扱う観光市場",
+    "lat": 41.7736,
+    "lng": 140.7289,
+    "url": "https://www.hakodate.or.jp/feature/asaichi/"
+  },
+  {
+    "id": "motomachi",
+    "title": "元町",
+    "description": "異国情緒あふれる教会や坂道の街並み",
+    "lat": 41.7730,
+    "lng": 140.7220,
+    "url": "https://www.hakodate.travel/spot/motomachi/"
+  }
+]
